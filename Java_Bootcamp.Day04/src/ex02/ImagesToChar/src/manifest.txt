@@ -1,0 +1,2 @@
+Main-Class: edu.school21.printer.app.Main
+Class-Path: lib/JColor-5.5.1.jar lib/jcommander-1.81.jar
