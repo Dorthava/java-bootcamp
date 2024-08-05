@@ -1,5 +1,0 @@
-CREATE TABLE product (
-    identifier INTEGER IDENTITY PRIMARY KEY,
-    name VARCHAR(50),
-    price DOUBLE PRECISION
-);
